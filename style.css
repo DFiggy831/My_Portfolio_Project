@@ -1,4 +1,7 @@
 
+body {
+     font-family: 'Hammersmith One', sans-serif;
+}
 ul {
     list-style: none;
     display: flex;
@@ -9,5 +12,5 @@ ul {
 
 li {
     margin: 25px 55px 55px 15px;
-
 }
+
